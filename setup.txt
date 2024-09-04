@@ -1,0 +1,7 @@
+git clone https://github.com/your-username/snakes.git
+
+cd snakes
+npm init
+mkdir src
+touch src/index.js
+npm install some-package
